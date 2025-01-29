@@ -189,6 +189,7 @@ This project is fortified with the Apache license. For more details, please refe
 ---
 
 ## 🌟 Acknowledgements
+This work was partially supported by the Technopole Flagship Project 6 under the Italian PNRR program.
 
 We owe our gratitude to:
 - **Prof. Mauro Oliveri** - Work supervisor 📧 [Email](mailto: mauro.olivieri@uniroma1.it)
